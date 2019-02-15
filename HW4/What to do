@@ -1,0 +1,2 @@
+tar should have a make file, *.cc, *.h, dont do any main.cc files
+do not include hw4.a in the tar
